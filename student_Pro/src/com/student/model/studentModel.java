@@ -9,7 +9,7 @@ public class studentModel {
 	private String alaso;
 	
 	
-	
+	//学生管理系统
 	
 	
 	
